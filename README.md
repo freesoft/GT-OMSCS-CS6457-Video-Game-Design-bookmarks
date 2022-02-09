@@ -11,7 +11,9 @@ The site has learn, form, blog, and unity asset store which are super useful whe
 ## [Maximo](https://www.mixamo.com/)
 Free 3D characters and animations for your final project
 
-## Game Design Workshop: A Playcentric Approach to Creating Innovative Games, 4th edition
+## Books
+
+### Game Design Workshop: A Playcentric Approach to Creating Innovative Games, 4th edition
 This is one of the recommended textbook in the class syllabus. You can free access to the 3rd edition if you ahve Safaribook Online account.
 
 * [amazon link](https://amzn.to/3B6sJKO) : this is my Amazon affiliate program link that I created to have shorter url. 
