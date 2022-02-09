@@ -1,6 +1,8 @@
 # Overview
 
-This repo is to organize and share the link and information that I found useful while taking Georgia Tech's OMSCS CS6457 Video Game Design in Spring 2022.
+This repo is to organize and share the link and information that I found useful while taking Georgia Tech's OMSCS since 2021.
+
+# CS 6457 - Video Game Design
 
 ## [Unity](https://unity.com/)
 The class literally uses Unity for the assignments and final team project. Also, many video contents cover about Unity itself. 
@@ -17,4 +19,8 @@ Free 3D characters and animations for your final project
 This is one of the recommended textbook in the class syllabus. You can free access to the 3rd edition if you ahve Safaribook Online account.
 
 * [amazon link](https://amzn.to/3B6sJKO) : this is my Amazon affiliate program link that I created to have shorter url. 
+
+## CS 6601 - AI
+
+[to be updated]
 
