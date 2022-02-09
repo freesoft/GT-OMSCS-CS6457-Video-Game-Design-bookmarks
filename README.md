@@ -20,7 +20,7 @@ This is one of the recommended textbook in the class syllabus. You can free acce
 
 * [amazon link](https://amzn.to/3B6sJKO) : this is my Amazon affiliate program link that I created to have shorter url. 
 
-## CS 6601 - AI (Fall 2021)
+# CS 6601 - AI (Fall 2021)
 
 [to be updated]
 
