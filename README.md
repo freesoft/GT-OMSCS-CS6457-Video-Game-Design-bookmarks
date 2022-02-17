@@ -15,6 +15,10 @@ Free 3D characters and animations for your final project
 ## [Houdini](https://www.sidefx.com/products/houdini-engine/plug-ins/unity-plug-in/)
 Houdini engine for fast prototyping and creating a assets / terrain / stage / etc.
 
+## Cinemachine
+Unity Cinemachine: https://unity.com/unity/features/editor/art-and-design/cinemachine
+Cimenachine tutorial from Unity: https://www.youtube.com/watch?v=537B1kJp9YQ
+
 ## Books
 
 ### Game Design Workshop: A Playcentric Approach to Creating Innovative Games, 4th edition
