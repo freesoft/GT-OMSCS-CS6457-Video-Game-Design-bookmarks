@@ -16,6 +16,7 @@ Free 3D characters and animations for your final project
 Houdini engine for fast prototyping and creating a assets / terrain / stage / etc.
 
 ## Cinemachine
+You might need it for your team project's camera movement and processing effectively. 
 * Unity Cinemachine: https://unity.com/unity/features/editor/art-and-design/cinemachine
 * Cimenachine tutorial from Unity: https://www.youtube.com/watch?v=537B1kJp9YQ
 
